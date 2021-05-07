@@ -1,6 +1,8 @@
 {
-  "dependencies": {
-    "playwright-aws-lambda": "^0.6.0",
-    "playwright-core": "^1.10.0"
-  }
+  "name": "opengraph-image-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LunacTec/opengraph-image-generator.git",
+  "author": "Lucas Acosta <lucas2002lucas@gmail.com>",
+  "license": "MIT"
 }
